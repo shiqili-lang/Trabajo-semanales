@@ -3,7 +3,7 @@ package Semana_1.Contador;
 public class Contador {
 
     // Función recursiva que cuenta cuántas veces aparece 'digito' en 'numero'
-    public static int contarDigito(int numero, int digito) {
+  public static int contarDigito(int numero, int digito) {
         if (numero == 0) {
             return 0;
         }
