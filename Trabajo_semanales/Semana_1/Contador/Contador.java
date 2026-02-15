@@ -17,6 +17,5 @@ public class Contador {
 
         return cuenta + contarDigito(numero / 10, digito); 
     }
-
 }
 

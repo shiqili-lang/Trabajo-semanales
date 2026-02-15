@@ -8,4 +8,5 @@ public class Main {
         int digito = 2;
         System.out.println("El dígito " + digito + " aparece " + Contador.contarDigito(numero, digito) + " veces.");
     }
+    
 }
